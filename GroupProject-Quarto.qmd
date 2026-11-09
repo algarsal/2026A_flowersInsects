@@ -1,0 +1,60 @@
+---
+title: "GROUP PROJECT: Flowers and insects"
+author: "Ana Vilaplana (vilapl-ana), Shabrin Jahan Shaili (s2012066151-design) and Md.Asif Ibne Habib (asifih79-hue)"
+format: html
+---
+
+## Exercise 4.
+
+# A description of the selected data. A link to the data and describe its structure and main variables.
+
+Article: Silva JJ, Kim T, Begcy K, Martini X, Knox G, Mallinger RE. 2026. Plant origin and irrigation influence floral resource value and pollinator attraction to ornamental plants. PeerJ 14:e20906 https://doi.org/10.7717/peerj.20906
+
+
+How plant origin influences plant responses to irrigation for floral traits such as nectar and pollen.  In the study we selected, they evaluated 10 native and 10 non-native plants to Florida under two different irrigation treatments and measured floral density, floral display, floral resources (nectar and pollen), and pollinator visitation rates and diversity in an open field study.
+
+
+There was strong to very strong evidence that native plants produced higher floral densities and displays, along with greater amounts of pollen per plot, and attracted a higher number and diversity of pollinators as compared to non-native plants.
+
+
+```{r}
+Webcsv <- "https://dfzljdn9uc3pi.cloudfront.net/2026/20906/1/pollinatorsflowersperplot.csv"
+Flowers <- read.table(Webcsv, header = T, sep = ",")
+
+```
+## Exercise 5. 
+# Define the objectives, research questions and main hypotheses.
+
+Our objective is to know, when having the same environmental conditions, for the same insect (Honeybees, Wasps, Lepidoptera) which plant (n=20) and its characteristics (flowering, growth, height, irrigation, origin) attracts it more?
+
+Therefore, our Hypotheses are:
+
+- H1 = Three insects are attracted to the maximum values of the plants.
+
+- H0 = H1 is not true. 
+
+  
+## Exercise 6. 
+# Name the analyses you think are necessary or which you would like to use.
+
+Out of 23 variables, the main ones for our projects would be:
+  
+  - Number of Flowers per plant 
+  
+  - Max_height
+  
+  - Max_growth_index
+  
+  - Number of Honeybees
+  
+  - Number of Wasps
+  
+  - Number of Lepidoptera
+
+ Multivariable, lineal models, Anova and Anova with sqrt(counts), Tukey posthoc comparison, non-parametric Kruskal-Wallis rank sum test, shapiro.test() to compare the models.
+
+
+```{r}
+```
+
+
