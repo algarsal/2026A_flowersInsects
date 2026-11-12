@@ -1,0 +1,320 @@
+﻿Year,Site,Season ,Date,Row,Plot,Plants,Family,Genera,Origin,Irrigation,Person,Number of flowers,Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,nectar_per_flower,Florets_open
+1,Northcentral,summer,jun,1,1.02,Bidens alba,Asteraceae,Bidens,Native,Full,Stan,5,0.938,0.563,0.922,1.25,0.5,NA,NA,NA,NA,NA,0.834,12
+1,Northcentral,summer,jun,1,1.03,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna,10,0.313,10.313,0.938,5.156,2.188,4.844,4.531,5.156,2.969,9.688,4.609,
+1,Northcentral,summer,aug,1,1.04,Salvia azurea,Lamiaceae,Salvia,Native,Full,Stan,10,1.563,0.781,1.25,1.094,0.938,0.781,1.406,1.406,1.406,0.781,1.141,
+1,Northcentral,summer,aug,1,1.05,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Alex,10,0.091,1,0.618,0.909,0.164,0.073,0.218,1,0.909,0.382,0.536,
+1,Northcentral,summer,july,1,1.07,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Stan,6,66.234,100,51.948,97.403,81.818,111.688,NA,NA,NA,NA,84.848,
+1,Northcentral,spring,may,1,1.09,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Marra,5,3,2.75,1.563,5.125,1.125,NA,NA,NA,NA,NA,2.713,35.4
+1,Northcentral,summer,aug,1,1.11,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Stan,5,1.719,2.656,0.625,0.781,1.563,NA,NA,NA,NA,NA,1.469,44.8
+1,Northcentral,summer,jun,1,1.12,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Stan,5,2.5,2.5,2.5,2.188,1.25,NA,NA,NA,NA,NA,2.188,59
+1,Northcentral,summer,jun,1,1.15,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna,10,5.156,15.469,7.813,2.188,5.156,6.094,7.656,15.469,5.156,3.281,7.344,
+1,Northcentral,summer,july,1,1.18,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Marra,5,0,0.018,0.036,0.091,0.145,NA,NA,NA,NA,NA,0.058,45.8
+1,Northcentral,spring,may,1,1.19,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Stan,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,11.4
+1,Northcentral,summer,july,1,1.2,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Stan,10,1.25,0.469,1.719,0.156,1.719,2.656,1.406,2.813,1.719,4.375,1.828,
+1,Northcentral,summer,july,2,2.02,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Stan,1,17.582,0,0,0,0,NA,NA,NA,NA,NA,3.516,
+1,Northcentral,summer,jun,2,2.2,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna,10,0.078,0.031,0.047,0.047,0.031,0.063,0.172,0.094,0.094,0.063,0.072,
+1,Northcentral,spring,may,2,2.03,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,Marra,5,0.782,0.109,1.2,1.091,0.527,NA,NA,NA,NA,NA,0.742,42.4
+1,Northcentral,spring,may,2,2.04,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Stan,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,15.6
+1,Northcentral,summer,july,2,2.05,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Stan,10,0.625,0.313,1.094,2.969,2.031,1.094,1.563,2.813,2.344,2.656,1.75,
+1,Northcentral,summer,jun,2,2.06,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Stan,5,3.182,2.879,4.545,2.424,3.939,NA,NA,NA,NA,NA,3.394,60.2
+1,Northcentral,summer,aug,2,2.07,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Stan,5,0.734,0.789,0.203,0.195,0.242,NA,NA,NA,NA,NA,0.433,56
+1,Northcentral,summer,jun,2,2.12,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna,10,0.094,0.063,0,0,0,0,0,0,0,0,0.016,
+1,Northcentral,summer,aug,2,2.13,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Alex,10,1,0.909,0.636,0.218,0.145,0.273,1,1.018,0.382,0.455,0.604,
+1,Northcentral,summer,aug,2,2.14,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Stan,10,1.563,2.031,2.813,2.031,1.563,1.406,1.406,0.625,1.875,1.094,1.641,
+1,Northcentral,summer,july,2,2.15,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,Marra,5,0,0.109,0,0,0.036,NA,NA,NA,NA,NA,0.029,28.8
+1,Northcentral,fall,oct,2,2.17,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Alex,10,0.875,0.688,0.188,0.688,0.25,0.25,0.188,0.188,0.938,0.875,0.513,
+1,Northcentral,summer,jun,2,2.18,Bidens alba,Asteraceae,Bidens,Native,Partial,Stan,5,0.438,0.516,0.641,0.516,0.281,NA,NA,NA,NA,NA,0.478,18
+1,Northcentral,spring,may,3,3.02,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Marra,5,3.438,1.938,1.313,1.5,1.313,NA,NA,NA,NA,NA,1.9,28.6
+1,Northcentral,spring,may,3,3.03,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Joanna,5,0.016,0.016,0.016,0,0,NA,NA,NA,NA,NA,0.009,13.8
+1,Northcentral,summer,jun,3,3.04,Bidens alba,Asteraceae,Bidens,Native,Full,Stan,5,0.906,0.438,0.266,0.203,0.063,NA,NA,NA,NA,NA,0.375,18.8
+1,Northcentral,summer,july,3,3.06,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Stan,4,109.89,0,101.099,81.319,0,NA,NA,NA,NA,NA,58.462,
+1,Northcentral,fall,oct,3,3.08,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Full,Alex,10,0.938,0.625,0.563,0.875,0.688,0.313,0.375,0.688,0.875,0.625,0.656,
+1,Northcentral,summer,jun,3,3.1,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna,10,3.281,4.063,3.594,3.75,1.563,2.969,3.906,4.063,5.156,6.094,3.844,
+1,Northcentral,summer,jun,3,3.11,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna,10,1.031,0.734,1.031,0.516,0.188,0.25,0.516,0.516,0.281,0.516,0.558,
+1,Northcentral,summer,aug,3,3.13,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Alex,10,7.031,2.25,12.281,0.656,2.625,1.406,9.844,0.75,0.563,9.281,4.669,
+1,Northcentral,summer,jun,3,3.15,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Alex,5,1.406,3.438,1.875,4.375,4.375,NA,NA,NA,NA,NA,3.094,47.6
+1,Northcentral,summer,july,3,3.17,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Joanna,10,0.313,0.234,0.25,0.281,0.172,0.281,0.516,0.281,0.266,0.359,0.295,
+1,Northcentral,summer,aug,3,3.18,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna,10,3.03,1.212,1.818,1.818,0.606,10,2.121,1.515,3.333,3.333,2.879,
+1,Northcentral,summer,july,3,3.19,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Marra,5,0,0,0.018,0,0.018,NA,NA,NA,NA,NA,0.007,27.6
+1,Northcentral,summer,aug,3,3.2,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Alex,5,1.212,0,3.03,0,0,NA,NA,NA,NA,NA,0.848,38.4
+1,Northcentral,fall,oct,4,4.01,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Alex,10,0.375,0.188,0.063,0.625,0.688,0.625,0.813,0.875,0.125,0.688,0.506,
+1,Northcentral,summer,jun,4,4.04,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna,10,7.879,15.758,7.273,10,6.061,10.909,4.242,9.697,8.788,8.182,8.879,
+1,Northcentral,summer,jun,4,4.06,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Alex,5,1.818,0,2.121,2.727,3.182,NA,NA,NA,NA,NA,1.97,38.4
+1,Northcentral,summer,aug,4,4.07,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna,10,5.781,0.781,0.938,2.188,2.188,4.531,3.281,5.156,6.875,4.375,3.609,
+1,Northcentral,spring,may,4,4.08,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Joanna,5,0,0,0,0,0.031,0,0,0,NA,NA,0.004,13
+1,Northcentral,summer,july,4,4.09,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,Joanna,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,55.4
+1,Northcentral,spring,may,4,4.1,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,Joanna,5,3.5,3.5,3.25,1.875,2.938,NA,NA,NA,NA,NA,3.013,50.6
+1,Northcentral,summer,jun,4,4.11,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna,10,0.172,0.516,0.219,0.422,0.219,0.219,0.063,0.516,0.344,0.516,0.32,
+1,Northcentral,summer,july,4,4.14,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Joanna,10,0.297,0.125,0.172,1.031,0.516,0.109,0.078,0.281,0.109,0.609,0.333,
+1,Northcentral,summer,aug,4,4.15,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Alex,4,0.303,0.606,0,0,0,NA,NA,NA,NA,NA,0.182,27.25
+1,Northcentral,summer,aug,4,4.16,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Alex,10,2.344,2.156,1.594,0.75,0.469,1.969,1.031,0.094,0.844,0.188,1.144,
+1,Northcentral,summer,jun,4,4.17,Bidens alba,Asteraceae,Bidens,Native,Partial,Stan,5,0.781,0.461,0.609,0.469,0.281,NA,NA,NA,NA,NA,0.52,20.6
+1,Northcentral,summer,july,4,4.19,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Marra,4,133.766,57.143,157.143,107.792,0,NA,NA,NA,NA,NA,91.169,
+1,Northcentral,spring,may,5,5.01,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Joanna,5,1.125,0.938,5.625,0.469,4.031,NA,NA,NA,NA,NA,2.438,61.8
+1,Northcentral,summer,aug,5,5.02,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Alex,10,3.333,3.333,2.424,2.121,1.818,2.121,1.818,1.212,3.03,0.909,2.212,
+1,Northcentral,fall,oct,5,5.04,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Full,Alex,10,0.5,0.625,1.063,0.625,1.25,1.688,0.563,1,0.188,0.438,0.794,
+1,Northcentral,summer,july,5,5.05,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Alex,10,0.909,1.212,1.818,1.515,1.515,2.424,0.909,1.515,2.424,1.818,1.606,
+1,Northcentral,spring,may,5,5.07,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Remam,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,15
+1,Northcentral,summer,aug,5,5.08,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Alex,5,0.455,0.909,0.455,0,0.303,NA,NA,NA,NA,NA,0.424,30.6
+1,Northcentral,summer,jun,5,5.1,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Alex,5,1.515,2.727,6.212,5.152,4.242,NA,NA,NA,NA,NA,3.97,35.4
+1,Northcentral,summer,jun,5,5.13,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Remam,10,0.781,0.313,0.625,0.313,1.25,0.625,0.781,0.781,0.781,1.406,0.766,
+1,Northcentral,summer,jun,5,5.14,Bidens alba,Asteraceae,Bidens,Native,Full,Remam,5,0.219,0.219,0.313,0,0,NA,NA,NA,NA,NA,0.15,12.8
+1,Northcentral,summer,jun,5,5.17,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Remam,10,3.939,4.545,4.545,5.455,3.333,6.667,4.697,4.091,3.788,4.545,4.561,
+1,Northcentral,summer,july,5,5.18,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Marra,5,0,0.018,0.018,0,0.018,NA,NA,NA,NA,NA,0.011,61.8
+1,Northcentral,summer,july,5,5.19,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Marra,4,67.532,94.805,125.974,138.961,0,NA,NA,NA,NA,NA,85.455,
+1,Northcentral,summer,aug,5,5.2,Salvia azurea,Lamiaceae,Salvia,Native,Full,Alex,10,3.636,2.424,0.909,1.212,0.909,1.515,2.121,0.909,0.909,0.606,1.515,
+1,Northcentral,summer,aug,6,6.01,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna,5,0.094,0.047,0.016,0,0,NA,NA,NA,NA,NA,0.031,32.2
+1,Northcentral,summer,july,6,6.02,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Marra,4,79.221,144.156,96.104,14.286,0,NA,NA,NA,NA,NA,66.753,
+1,Northcentral,fall,oct,6,6.03,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Alex,10,0.563,0.25,0.438,1,0.625,0.188,1.313,0.188,0.625,0.938,0.613,
+1,Northcentral,summer,july,6,6.05,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Alex,10,1.515,3.03,0.606,1.515,0.909,0.303,0.909,1.515,0.909,2.424,1.364,
+1,Northcentral,spring,may,6,6.06,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Remam,5,0,0.125,0,0,0,NA,NA,NA,NA,NA,0.025,11.4
+1,Northcentral,summer,jun,6,6.13,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna,5,0,0.031,0.063,0.078,0.219,NA,NA,NA,NA,NA,0.078,32.4
+1,Northcentral,summer,jun,6,6.14,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Remam,10,4.545,2.273,3.03,4.545,5.152,4.545,4.848,5.455,4.394,6.667,4.545,
+1,Northcentral,summer,aug,6,6.15,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Alex,10,4.545,1.212,0.909,1.212,0.909,4.545,0.909,16.667,7.576,13.636,5.212,
+1,Northcentral,summer,jun,6,6.16,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Remam,10,0.938,1.25,0.938,0.469,0.781,0.938,1.875,0.938,0.781,0.625,0.953,
+1,Northcentral,summer,aug,6,6.17,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Alex,10,2.424,4.242,1.818,2.424,1.515,2.727,1.818,0.909,1.515,1.515,2.091,
+1,Northcentral,summer,jun,6,6.18,Bidens alba,Asteraceae,Bidens,Native,Partial,Remam,5,0.156,0.141,0.195,0.25,0.25,NA,NA,NA,NA,NA,0.198,14.4
+1,Northcentral,spring,may,6,6.19,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,Stan,5,3.5,1.563,0.688,0.063,1.25,NA,NA,NA,NA,NA,1.413,44
+1,Northcentral,summer,july,6,6.2,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,Stan,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,96.6
+1,Northcentral,summer,jun,7,7.2,Bidens alba,Asteraceae,Bidens,Native,Full,Remam,5,0.203,0.172,0.188,0.25,0.43,NA,NA,NA,NA,NA,0.248,21
+1,Northcentral,spring,may,7,7.02,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Marra,5,1.25,1.875,1.813,2.438,1.188,NA,NA,NA,NA,NA,1.713,38.8
+1,Northcentral,summer,aug,7,7.05,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Alex,10,0.909,5.758,0.606,4.545,0.303,0,0.303,0,0.606,1.212,1.424,
+1,Northcentral,summer,jun,7,7.07,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna,10,3.333,2.727,1.212,2.727,2.424,NA,NA,NA,NA,NA,2.485,21
+1,Northcentral,summer,july,7,7.09,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Marra,5,0.056,0.025,0.05,0.025,0.05,NA,NA,NA,NA,NA,0.041,41.8
+1,Northcentral,summer,aug,7,7.1,Salvia azurea,Lamiaceae,Salvia,Native,Full,Shiala,10,2.424,1.212,7.576,1.212,1.515,13.636,22.727,2.424,10.606,2.727,6.606,
+1,Northcentral,summer,july,7,7.12,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Marra,4,131.169,59.74,0,103.896,88.312,NA,NA,NA,NA,NA,76.623,
+1,Northcentral,summer,jun,7,7.13,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Remam,10,1.515,0.909,0.606,3.939,0.909,0.909,0.909,1.515,0.909,0.909,1.303,
+1,Northcentral,spring,may,7,7.14,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Remam,5,0,0.078,0.031,0.031,0.016,NA,NA,NA,NA,NA,0.031,29.4
+1,Northcentral,fall,oct,7,7.16,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Full,Alex,10,0.75,0.875,1,0.188,1.063,0.688,0.563,0.813,0.625,0.063,0.663,
+1,Northcentral,summer,aug,7,7.17,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna,5,0,0,3.03,0,0,NA,NA,NA,NA,NA,0.606,28.8
+1,Northcentral,summer,jun,7,7.18,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Remam,10,3.939,3.03,1.818,6.061,5.152,4.545,4.545,3.939,2.727,2.424,3.818,
+1,Northcentral,summer,july,7,7.19,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Shiala,10,3.333,0.303,3.333,4.545,2.727,4.545,0,22.727,0.303,2.727,4.455,
+1,Northcentral,spring,may,8,8.01,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Remam,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,17.4
+1,Northcentral,summer,aug,8,8.02,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Alex,10,2.063,0.656,0.188,0.938,0.938,0.75,0.656,1.125,1.031,2.25,1.059,
+1,Northcentral,spring,may,8,8.03,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,SMN,5,0.382,1.182,0.382,0.145,0.236,NA,NA,NA,NA,NA,0.465,42.6
+1,Northcentral,fall,oct,8,8.04,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Alex,10,0.313,0.688,0.313,0.313,0.188,0.875,0.563,0.813,0.688,0.125,0.488,
+1,Northcentral,summer,jun,8,8.05,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Remam,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+1,Northcentral,summer,aug,8,8.06,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Shiala,10,2.121,0.909,2.424,3.03,1.212,0.909,1.212,1.515,1.515,1.212,1.606,
+1,Northcentral,summer,jun,8,8.07,Bidens alba,Asteraceae,Bidens,Native,Partial,Remam,5,0.172,0.109,0.094,0.281,0.313,NA,NA,NA,NA,NA,0.194,18.4
+1,Northcentral,summer,aug,8,8.08,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna,5,0.606,0.606,0.303,0,1.212,NA,NA,NA,NA,NA,0.545,45.8
+1,Northcentral,summer,july,8,8.1,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,SMN,5,0,0,0.006,0.006,0.006,NA,NA,NA,NA,NA,0.004,19.2
+1,Northcentral,summer,july,8,8.11,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Shiala,10,1.515,0.909,0.606,4.545,1.212,1.515,1.212,2.424,0.303,1.212,1.545,
+1,Northcentral,summer,jun,8,8.13,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Remam,10,8.485,17.273,5.455,0.909,8.485,4.848,4.545,5.152,4.091,5.758,6.5,
+1,Northcentral,summer,jun,8,8.15,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna,5,0.303,3.03,1.818,1.515,9.697,NA,NA,NA,NA,NA,3.273,23
+1,Northcentral,summer,july,8,8.2,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Marra,5,0,0,0,1.299,74.026,NA,NA,NA,NA,NA,15.065,
+2,Northcentral,summer,jun,1,1.02,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Alana,5,0.063,0.138,0.025,0.025,0.019,NA,NA,NA,NA,NA,0.054,15
+2,Northcentral,fall,sept,1,1.02,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Josh,5,0.369,0.063,0.056,0,0.156,NA,NA,NA,NA,NA,0.129,19.4
+2,Northcentral,spring,may,1,1.03,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,5,0.563,0.75,0.469,1.406,0.75,NA,NA,NA,NA,NA,0.788,
+2,Northcentral,summer,july,1,1.03,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,10,0.094,0.094,0.094,0,0,0,0.094,0.094,0,0.094,0.056,
+2,Northcentral,spring,may,1,1.04,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,9,2.121,2.424,1.818,1.212,2.121,3.03,0.909,2.121,1.818,0,1.758,
+2,Northcentral,summer,aug,1,1.04,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,10,1.969,1.594,0.938,1.406,1.125,1.875,1.688,1.313,1.219,2.25,1.538,
+2,Northcentral,summer,aug,1,1.05,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Victoria,10,0.469,0.469,1.25,0.625,0.469,1.563,0.625,0.156,0.469,0,0.609,
+2,Northcentral,spring,may,1,1.06,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Alana,9,0.145,0.091,0.273,0.218,0.091,0.4,0.273,0.473,0.345,0,0.231,
+2,Northcentral,summer,jun,1,1.06,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Alana,,0.063,0.188,0.063,0.063,0.25,0.063,0.188,0.063,0.063,0,0.1,
+2,Northcentral,summer,july,1,1.07,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Joanna,5,0,1.299,0,14.286,1.299,NA,NA,NA,NA,NA,3.377,
+2,Northcentral,spring,may,1,1.08,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Alana,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,summer,jun,1,1.08,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Alana,1,21.719,0,0,0,0,NA,NA,NA,NA,NA,4.344,
+2,Northcentral,spring,may,1,1.09,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Joanna_Alana,5,0.813,0.438,0.375,0.313,0.625,NA,NA,NA,NA,NA,0.513,65.2
+2,Northcentral,spring,may,1,1.1,Ilex glabra,Aquifoliaceae,Ilex,Native,Full,Joanna_Walker,10,0.025,0.031,0.038,0.025,0.025,0.063,0.056,0.044,0.031,0.056,0.039,
+2,Northcentral,spring,may,1,1.11,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.364,0.091,0.291,0.036,0.073,NA,NA,NA,NA,NA,0.171,55.6
+2,Northcentral,summer,july,1,1.11,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.113,0,0.013,0.05,0.038,NA,NA,NA,NA,NA,0.043,47.6
+2,Northcentral,spring,apr,1,1.12,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,1.491,2.364,1.364,3,1.091,NA,NA,NA,NA,NA,1.862,73.4
+2,Northcentral,summer,jun,1,1.12,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,0.069,0.15,0.225,0,0.044,NA,NA,NA,NA,NA,0.098,23
+2,Northcentral,spring,march,1,1.14,Viburnum obovatum,Adoxaceae,Viburnum,Native,Full,Joanna_Walker,10,0,0,0,0,0,0,0,0,0,0,0,
+2,Northcentral,spring,may,1,1.15,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,9,2.121,1.212,0.303,1.212,1.515,1.515,2.424,3.333,3.03,,1.852,
+2,Northcentral,summer,jun,1,1.15,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,10,2.813,2.906,0,3.094,3.656,3.375,1.969,2.813,2.438,0.469,2.353,
+1,Northcentral,winter,feb,1,1.16,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Alana,9,0.218,0.036,0.018,0.073,0.018,0,0,0,0,0,0.036,
+2,Northcentral,winter,feb,1,1.16,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Sabrina,10,0,0,0.013,0,0.044,0.013,0.006,0,0.013,0.031,0.012,
+2,Northcentral,fall,oct,1,1.17,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Full,Joanna_Josh,10,0.469,0.375,0.563,2.344,0.469,0.469,0,0.281,0.375,0.188,0.553,
+2,Northcentral,summer,aug,1,1.18,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Joanna_Alana,2,0.013,0.006,0,0,0,NA,NA,NA,NA,NA,0.004,57
+2,Northcentral,spring,may,1,1.19,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Joanna_Alana,5,0.025,0.013,0.1,0,0.013,NA,NA,NA,NA,NA,0.03,19.4
+2,Northcentral,spring,may,1,1.2,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Alana,9,0.073,0.255,0.055,1,0.764,0.091,0.364,0.473,0.309,0,0.338,
+2,Northcentral,summer,july,2,2.02,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Joanna,3,45.455,41.558,0,0,0,NA,NA,NA,NA,NA,17.403,
+2,Northcentral,spring,may,2,2.03,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,Joanna_Alana,5,0.75,0.438,0.375,0.375,0.438,NA,NA,NA,NA,NA,0.475,48.6
+2,Northcentral,spring,may,2,2.04,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Joanna_Alana,5,0.013,0.006,0,0.013,0,NA,NA,NA,NA,NA,0.006,12.2
+2,Northcentral,spring,may,2,2.05,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Alana,9,0.527,1.4,0.127,0.382,0.073,0.4,0.527,0.291,1,0,0.473,
+2,Northcentral,spring,apr,2,2.06,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,5,0.182,0.109,0.055,0.073,0.036,NA,NA,NA,NA,NA,0.091,54.8
+2,Northcentral,summer,jun,2,2.06,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,5,0.044,0,0,0,0.038,NA,NA,NA,NA,NA,0.016,21.2
+2,Northcentral,spring,may,2,2.07,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,0.091,0.127,0.145,0,0,NA,NA,NA,NA,NA,0.073,33.8
+2,Northcentral,summer,july,2,2.07,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,0.056,0,0.138,0,0,NA,NA,NA,NA,NA,0.039,25.8
+2,Northcentral,spring,march,2,2.09,Viburnum obovatum,Adoxaceae,Viburnum,Native,Partial,Joanna_Walker,10,0.013,0.006,0.013,0.025,0.019,NA,NA,NA,NA,NA,0.015,
+2,Northcentral,spring,may,2,2.1,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Alana,2,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,summer,jun,2,2.1,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Alana,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,spring,may,2,2.11,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Alana,9,0.127,0.2,0.073,0.145,0.6,0.127,0.236,0.236,0.364,0,0.211,
+2,Northcentral,summer,jun,2,2.11,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Alana,,0,0,0,0,0,0,0,0,0,0,0,
+2,Northcentral,spring,may,2,2.12,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,5,0.563,1.031,0.938,1.125,0,NA,NA,NA,NA,NA,0.731,
+2,Northcentral,summer,july,2,2.12,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,10,1.313,0.469,0.469,0.375,0.844,0.938,0,0.188,0,0,0.459,
+2,Northcentral,summer,aug,2,2.13,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Victoria,10,0.469,2.344,0.469,0.156,2.031,0.156,0.625,0.469,1.406,0,0.813,
+2,Northcentral,spring,may,2,2.14,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,9,0.606,2.121,0,0,0,0,0,0.909,0.303,0,0.394,
+2,Northcentral,summer,aug,2,2.14,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,3,0,0.094,0.469,0,0,0,0,0,0,0,0.056,
+2,Northcentral,summer,aug,2,2.15,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,Joanna_Alana,5,0,0,0,0.006,0,NA,NA,NA,NA,NA,0.001,41.2
+2,Northcentral,fall,oct,2,2.17,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Joanna_Josh,10,5.156,0.375,3.281,0.094,0.469,2.344,4.219,5.156,4.219,0.375,2.569,
+2,Northcentral,summer,jun,2,2.18,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Alana,4,0.2,0.013,0,0.019,0.088,NA,NA,NA,NA,NA,0.064,13.6
+2,Northcentral,fall,sept,2,2.18,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Josh,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+1,Northcentral,winter,feb,2,2.19,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Alana,10,0.025,0.006,0.019,0.025,0.006,0.031,0.056,0.019,0.013,0.038,0.024,
+2,Northcentral,winter,feb,2,2.19,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Sabrina,10,0,0,0,0.05,0,0,0,0,0,0,0.005,
+2,Northcentral,spring,may,2,2.2,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,9,1.515,1.212,2.121,2.121,2.424,3.333,1.515,1.818,1.515,,1.953,
+2,Northcentral,summer,jun,2,2.2,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,10,3.75,3.281,2.813,2.063,2.531,2.344,2.344,2.156,2.25,2.438,2.597,
+2,Northcentral,spring,may,2,2.08,Ilex glabra,Aquifoliaceae,Ilex,Native,Partial,Joanna_Walker,10,0.05,0.044,0.038,0.031,0.031,0.044,0.019,0.038,0.044,0.025,0.036,
+2,Northcentral,spring,may,3,3.01,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Stan,9,1.418,0.527,0.236,0.636,0.291,0.364,0.273,0.255,1.036,1.691,0.673,
+2,Northcentral,summer,jun,3,3.01,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Alana,,0.313,0.313,0.188,0.188,0.625,0.063,0.313,0.375,0.063,0.063,0.25,
+2,Northcentral,spring,may,3,3.02,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Joanna_Alana,5,1.688,0.75,0.313,0.438,0.313,NA,NA,NA,NA,NA,0.7,56.6
+2,Northcentral,spring,may,3,3.03,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Joanna_Alana,5,0.013,0.044,0,0.013,0.013,NA,NA,NA,NA,NA,0.016,8
+2,Northcentral,summer,jun,3,3.04,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Alana,5,0.036,0.091,0.109,0.218,0.073,NA,NA,NA,NA,NA,0.105,13
+2,Northcentral,fall,sept,3,3.04,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Josh,5,0.006,0.019,0,0.013,0.006,NA,NA,NA,NA,NA,0.009,9.2
+2,Northcentral,spring,may,3,3.05,Ilex glabra,Aquifoliaceae,Ilex,Native,Full,Joanna_Walker,10,0.2,0.164,0.127,0.145,0.127,0.109,0.291,0.145,0.091,0.073,0.147,
+2,Northcentral,summer,july,3,3.06,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Joanna,4,19.481,38.961,90.909,71.429,0,NA,NA,NA,NA,NA,44.156,
+2,Northcentral,fall,oct,3,3.08,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Full,Joanna_Josh,10,0.375,0.094,0.75,0.375,0.094,0.469,2.344,0.094,1.406,0.094,0.609,
+2,Northcentral,spring,may,3,3.1,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,9,2.121,2.121,2.727,3.03,2.121,1.515,1.818,2.121,3.03,NA,2.29,
+2,Northcentral,summer,jun,3,3.1,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,5,0.844,0.938,2.344,2.438,0.75,NA,NA,NA,NA,NA,1.463,
+2,Northcentral,spring,may,3,3.11,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,5,0.469,0.188,0.938,0.656,0.188,NA,NA,NA,NA,NA,0.488,
+2,Northcentral,summer,july,3,3.11,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,6,1.031,1.406,1.313,0,0.094,1.406,NA,NA,NA,NA,0.875,
+2,Northcentral,spring,march,3,3.12,Viburnum obovatum,Adoxaceae,Viburnum,Native,Full,Joanna_Walker,10,0.073,0.091,0.091,0,0,NA,NA,NA,NA,NA,0.051,
+2,Northcentral,summer,aug,3,3.13,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Victoria,10,0.625,0.156,0.781,2.344,1.25,0.156,1.406,0,0,0,0.672,
+1,Northcentral,winter,feb,3,3.14,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Alana,10,0.125,0.006,0.031,0.038,0,0.006,0.006,0.044,0,0,0.026,
+2,Northcentral,winter,feb,3,3.14,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Sabrina,10,0.025,0,0,0,0.056,0.1,0.1,0,0,0.1,0.038,
+2,Northcentral,spring,apr,3,3.15,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,1.563,5.375,3.125,0.313,5.625,NA,NA,NA,NA,NA,3.2,90
+2,Northcentral,summer,jun,3,3.15,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,0.075,0.138,0.044,0.013,0.025,NA,NA,NA,NA,NA,0.059,28.4
+2,Northcentral,spring,may,3,3.16,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Stan,2,8.533,28.267,0,0,0,NA,NA,NA,NA,NA,7.36,
+2,Northcentral,summer,jun,3,3.16,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Stan,1,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,spring,may,3,3.17,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Stan,9,1.125,0.906,1.188,1.063,1.063,1.938,2,1.188,1.438,0,1.191,
+2,Northcentral,spring,may,3,3.18,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,9,0.606,1.818,0.909,1.515,0.909,1.515,0.606,0,0,0,0.788,
+2,Northcentral,summer,aug,3,3.18,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,0,0,0,0,0,0,0,0,0,0,0,0,
+2,Northcentral,summer,aug,3,3.19,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Joanna_Alana,5,0.006,0,0,0,0,NA,NA,NA,NA,NA,0.001,44.6
+2,Northcentral,spring,may,3,3.2,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.182,0.036,0.091,0.073,0.145,NA,NA,NA,NA,NA,0.105,87
+2,Northcentral,summer,july,3,3.2,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.031,0.038,0.013,0.006,0,NA,NA,NA,NA,NA,0.018,28.8
+2,Northcentral,fall,oct,4,4.01,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Joanna_Josh,10,0.469,0.094,0,0.281,0.094,0,0,0.375,2.344,0,0.366,
+2,Northcentral,spring,march,4,4.03,Viburnum obovatum,Adoxaceae,Viburnum,Native,Partial,Joanna_Walker,10,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,spring,may,4,4.04,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,9,2.121,3.03,2.727,1.818,2.727,1.212,3.03,1.515,2.121,NA,2.256,
+2,Northcentral,summer,jun,4,4.04,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,10,5.156,3.469,1.219,2.813,0.469,2.813,2.625,2.25,1.219,1.594,2.363,
+2,Northcentral,spring,may,4,4.05,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Stan,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,summer,jun,4,4.05,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Stan,5,5.156,17.188,8.594,0,0,NA,NA,NA,NA,NA,6.188,
+2,Northcentral,spring,apr,4,4.06,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,5,0.818,0.655,0.564,1.527,0.509,NA,NA,NA,NA,NA,0.815,50.2
+2,Northcentral,summer,jun,4,4.06,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,5,0.2,0.075,0.025,0.075,0.019,NA,NA,NA,NA,NA,0.079,30.4
+2,Northcentral,spring,may,4,4.07,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,9,1.515,1.212,0.606,0.303,0,0.303,0,0.303,0,0,0.424,
+2,Northcentral,summer,aug,4,4.07,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,9,1.031,0.938,0.656,1.125,0.938,0,0,0.75,0.563,0,0.6,
+2,Northcentral,spring,may,4,4.08,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Joanna_Alana,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,spring,may,4,4.1,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,Joanna_Alana,5,0.375,0.313,0.063,0.5,0.375,NA,NA,NA,NA,NA,0.325,43.2
+2,Northcentral,spring,may,4,4.11,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,4,0.375,0.281,1.125,0.938,0,NA,NA,NA,NA,NA,0.544,
+2,Northcentral,summer,july,4,4.11,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,10,0.844,0.938,0.844,1.219,1.219,1.125,0.938,0.094,1.031,0.375,0.863,
+2,Northcentral,spring,may,4,4.12,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Stan,9,0.055,0.345,0.264,0.327,0.618,0.2,0.345,0.4,0.164,0,0.272,
+2,Northcentral,summer,jun,4,4.12,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Alana,,0.125,0.438,0.5,0.313,0.375,0,0,0,0,0,0.175,
+2,Northcentral,spring,may,4,4.13,Ilex glabra,Aquifoliaceae,Ilex,Native,Partial,Joanna_Walker,10,0.055,0.055,0.127,0.091,0.073,0.018,0.055,0.073,0.127,0.182,0.085,
+2,Northcentral,spring,may,4,4.14,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Stan,9,1,0.938,1.375,1.094,1.438,0.938,1.125,1.219,1.344,0,1.047,
+2,Northcentral,spring,may,4,4.15,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,0.255,0.073,0,0,0.055,NA,NA,NA,NA,NA,0.076,89.8
+2,Northcentral,summer,july,4,4.15,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,0.091,0.073,0,0.036,0.073,NA,NA,NA,NA,NA,0.055,32.6
+2,Northcentral,summer,aug,4,4.16,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Victoria,10,1.563,1.25,2.5,2.656,2.188,2.5,0.625,5.469,0.938,1.094,2.078,
+2,Northcentral,summer,jun,4,4.17,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Alana,4,0.056,0.025,0.019,0.075,0,NA,NA,NA,NA,NA,0.035,14
+2,Northcentral,fall,sept,4,4.17,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Josh,5,0.106,0.025,0,0.063,0.05,NA,NA,NA,NA,NA,0.049,19.6
+2,Northcentral,summer,july,4,4.19,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Joanna,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+1,Northcentral,winter,feb,4,4.2,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Alana,10,0.038,0.013,0.031,0.013,0.013,0.013,0.044,0,0,0,0.016,
+2,Northcentral,winter,feb,4,4.2,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Sabrina,10,0.044,0.056,0.1,0.075,0.2,0.1,0.131,0.1,0.081,0,0.089,
+2,Northcentral,summer,aug,4,4.09,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,Joanna_Alana,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,58.2
+2,Northcentral,spring,may,5,5.01,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Joanna_Alana,5,0.688,0.5,0.313,0.375,0.5,NA,NA,NA,NA,NA,0.475,56.8
+2,Northcentral,summer,aug,5,5.02,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Victoria,10,1.406,1.875,0.156,2.656,2.344,2.188,1.25,2.813,2.031,0.781,1.75,
+2,Northcentral,spring,march,5,5.03,Viburnum obovatum,Adoxaceae,Viburnum,Native,Full,Joanna_Walker,10,0.073,0.073,0,0,0,NA,NA,NA,NA,NA,0.029,
+2,Northcentral,fall,oct,5,5.04,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Full,Joanna_Josh,10,0.182,0.127,0.091,0.073,0.127,0.182,0.164,0.091,0.073,0.127,0.124,
+2,Northcentral,spring,may,5,5.05,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Joanna,10,5.156,1.125,0.938,0.469,2.813,1.313,0.563,1.875,0.75,0.094,1.509,
+2,Northcentral,spring,may,5,5.06,Ilex glabra,Aquifoliaceae,Ilex,Native,Full,Joanna_Walker,10,0.091,0.109,0.036,0.218,0.073,0.109,0.091,0.091,0.127,0.145,0.109,
+2,Northcentral,spring,may,5,5.07,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Joanna_Alana,3,0.006,0,0.006,0,0,NA,NA,NA,NA,NA,0.003,7.667
+2,Northcentral,spring,may,5,5.08,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.164,0.127,0.182,0,0.109,NA,NA,NA,NA,NA,0.116,62.2
+2,Northcentral,summer,july,5,5.08,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.1,0.106,0.019,0.081,0.119,NA,NA,NA,NA,NA,0.085,26.2
+2,Northcentral,spring,may,5,5.09,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Joanna,2,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,summer,jun,5,5.09,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Joanna,4,0,0.031,0.141,0.063,0,NA,NA,NA,NA,NA,0.047,
+2,Northcentral,spring,apr,5,5.1,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,1.418,0.982,0.782,0.182,0,NA,NA,NA,NA,NA,0.673,72
+2,Northcentral,summer,jun,5,5.1,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,0.218,0.073,0.473,0.218,0.182,NA,NA,NA,NA,NA,0.233,15.2
+2,Northcentral,spring,may,5,5.13,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,10,1.688,2.813,0.656,2.344,0.656,1.5,1.313,0.844,3.844,3,1.866,
+2,Northcentral,summer,july,5,5.13,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,10,1.406,2.344,1.125,0.75,1.875,1.313,1.5,1.313,1.969,1.406,1.5,
+2,Northcentral,summer,jun,5,5.14,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Alana,5,0.3,0,0.563,0.3,0.25,NA,NA,NA,NA,NA,0.283,14.2
+2,Northcentral,fall,sept,5,5.14,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Josh,5,0.1,0.025,0.1,0.056,0,NA,NA,NA,NA,NA,0.056,16.6
+1,Northcentral,winter,feb,5,5.15,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Alana,10,0.006,0.1,0.1,0.013,0,0.019,0,0.1,0.013,0.044,0.039,
+2,Northcentral,winter,feb,5,5.15,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Sabrina,10,0.1,0.1,0.025,0,0.094,0.1,0.006,0.006,0,0,0.043,
+2,Northcentral,spring,may,5,5.16,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Joanna,10,0.673,0.545,0.4,0.291,0.091,0.091,0.273,0.091,0.218,0.273,0.295,
+2,Northcentral,summer,jun,5,5.16,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Alana,,0.625,0.875,0.625,1.188,1.813,0.813,0.438,2.063,1.313,1.375,1.113,
+2,Northcentral,spring,may,5,5.17,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,9,3.03,2.727,1.818,0.606,2.727,1.515,1.515,1.515,1.515,NA,1.886,
+2,Northcentral,summer,jun,5,5.17,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,8,1.688,0.094,2.063,0.75,1.688,1.688,2.906,2.531,NA,NA,1.676,
+2,Northcentral,summer,aug,5,5.18,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Joanna_Alana,5,0.025,0.013,0.013,0.025,0.013,NA,NA,NA,NA,NA,0.018,52.2
+2,Northcentral,summer,july,5,5.19,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Joanna,5,2.597,2.597,3.896,31.169,1.299,NA,NA,NA,NA,NA,8.312,
+2,Northcentral,spring,may,5,5.2,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,9,1.515,0.606,0.303,0.303,0.606,0.606,0.303,0.303,0.303,0,0.485,
+2,Northcentral,summer,aug,5,5.2,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,8,0,0,0.125,0.063,0.75,0.938,1.125,0.813,0,0,0.381,
+2,Northcentral,spring,may,6,6.01,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,0.125,0.75,1.25,0.313,0.563,NA,NA,NA,NA,NA,0.6,77.2
+2,Northcentral,summer,july,6,6.01,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,0.218,0.109,0.073,0.036,0.091,NA,NA,NA,NA,NA,0.105,31.2
+2,Northcentral,summer,july,6,6.02,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Joanna,3,0,0,18.182,0,0,NA,NA,NA,NA,NA,3.636,
+2,Northcentral,fall,oct,6,6.03,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Joanna_Josh,10,0,0.073,0.145,0.091,0.055,0.073,0.091,0.055,0.145,0.091,0.082,
+2,Northcentral,spring,may,6,6.05,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Joanna,10,0,0,0,0,2.625,1.969,1.313,0,0.094,0,0.6,
+2,Northcentral,spring,may,6,6.06,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Joanna_Alana,5,0.013,0.013,0,0.013,0.05,NA,NA,NA,NA,NA,0.018,16.8
+1,Northcentral,winter,feb,6,6.08,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Alana,10,0,0.025,0.006,0,0.019,0.019,0.031,0.019,0.013,0.025,0.016,
+2,Northcentral,winter,feb,6,6.08,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Sabrina,10,0,0,0,0,0.019,0.013,0,0.006,0,0,0.004,
+2,Northcentral,spring,may,6,6.09,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Joanna,5,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,summer,jun,6,6.09,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Joanna,2,0.063,0.031,0,0,0,NA,NA,NA,NA,NA,0.019,
+2,Northcentral,spring,may,6,6.1,Ilex glabra,Aquifoliaceae,Ilex,Native,Partial,Joanna_Walker,10,0.036,0.055,0.091,0.109,0,0.018,0.036,0.127,0.127,0,0.06,
+2,Northcentral,spring,march,6,6.11,Viburnum obovatum,Adoxaceae,Viburnum,Native,Partial,Joanna_Walker,10,0,0,0,0,0,0,0,0,0,0,0,
+2,Northcentral,spring,may,6,6.12,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Joanna,10,0.091,0,0.055,0.382,0.036,0.091,0.182,0.273,0.182,0.127,0.142,
+2,Northcentral,summer,jun,6,6.12,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Alana,,0.625,0.813,0,0.875,0.25,0.75,0.563,0.125,0.313,0.75,0.506,
+2,Northcentral,spring,apr,6,6.13,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,5,0.473,1,1,1.727,0.818,NA,NA,NA,NA,NA,1.004,61.4
+2,Northcentral,summer,jun,6,6.13,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,0,0,0,0,0,0,NA,NA,NA,NA,NA,0,0
+2,Northcentral,spring,may,6,6.14,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,9,3.636,3.939,3.333,0.909,2.424,3.333,3.333,2.121,1.818,NA,2.761,
+2,Northcentral,summer,jun,6,6.14,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,6,1.563,1.188,1.188,1.375,1.25,1.875,0,NA,NA,NA,1.205,
+2,Northcentral,spring,may,6,6.15,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,9,0,0,0.606,0,0.606,0.909,0.606,0.606,0.606,0.606,0.455,
+2,Northcentral,summer,aug,6,6.15,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,8,0.313,0.438,0.25,0.438,0.125,0.313,0.125,0.125,0,0,0.213,
+2,Northcentral,spring,may,6,6.16,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,10,1.313,2.25,0.469,3,2.625,0.844,0.75,0.75,0,1.688,1.369,
+2,Northcentral,summer,july,6,6.16,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,10,1.5,0,0.125,1.563,1.813,1.813,0,0,1.563,2,1.038,
+2,Northcentral,summer,aug,6,6.17,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Victoria,10,1.094,2.344,2.031,0.313,0.156,0.938,1.563,1.406,0,0,0.984,
+2,Northcentral,summer,jun,6,6.18,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Alana,5,0.3,0,0.188,0.2,0,NA,NA,NA,NA,NA,0.138,24.6
+2,Northcentral,fall,sept,6,6.18,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Josh,5,0.056,0.05,0.019,0.025,0,NA,NA,NA,NA,NA,0.03,14
+2,Northcentral,spring,may,6,6.19,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,Joanna_Alana,5,0.938,0.5,0.375,0.125,0.563,NA,NA,NA,NA,NA,0.5,45.6
+2,Northcentral,summer,aug,6,6.2,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,Joanna_Alana,5,0,0.006,0,0.006,0,NA,NA,NA,NA,NA,0.003,29
+2,Northcentral,summer,jun,7,7.02,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Alana,5,0.35,0.063,0.175,0.138,0.088,NA,NA,NA,NA,NA,0.163,21.4
+2,Northcentral,spring,may,7,7.02,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Full,Joanna_Alana,5,0.313,0.188,0.438,0.313,0.75,NA,NA,NA,NA,NA,0.4,61.8
+2,Northcentral,spring,may,7,7.03,Ilex glabra,Aquifoliaceae,Ilex,Native,Full,Joanna_Walker,10,0.164,0.091,0.236,0.291,0.091,0.236,0.327,0.764,0.091,0.036,0.233,
+2,Northcentral,spring,may,7,7.04,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Vanessa,4,2.424,2.727,0,0,0,NA,NA,NA,NA,NA,1.03,
+2,Northcentral,summer,jun,7,7.04,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Full,Vanessa,1,0.047,0,0,0,0,NA,NA,NA,NA,NA,0.009,
+2,Northcentral,summer,aug,7,7.05,Monarda  punctata ,Lamiaceae,Monarda,Native,Full,Joanna_Victoria,10,1.719,1.719,2.031,1.719,2.656,1.875,4.063,1.563,2.969,1.563,2.188,
+2,Northcentral,spring,apr,7,7.07,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,1.182,3,0.636,4,2.673,NA,NA,NA,NA,NA,2.298,71.2
+2,Northcentral,summer,jun,7,7.07,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Full,Joanna_Alana,5,0.455,0.109,0.2,0.109,0.036,NA,NA,NA,NA,NA,0.182,26.2
+1,Northcentral,winter,feb,7,7.08,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Alana,10,0.013,0.031,0.056,0.013,0.013,0.025,0.063,0.006,0.013,0.013,0.024,
+2,Northcentral,winter,feb,7,7.08,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Full,Joanna_Sabrina,10,0,0,0,0.006,0.019,0,0,0.013,0,0,0.004,
+2,Northcentral,summer,aug,7,7.09,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Full,Joanna_Alana,5,0.025,0.031,0.006,0.006,0.006,NA,NA,NA,NA,NA,0.015,34.2
+2,Northcentral,spring,may,7,7.1,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,9,0.606,0,0.909,1.515,1.212,1.515,1.515,0.606,0,0,0.788,
+2,Northcentral,summer,aug,7,7.1,Salvia azurea,Lamiaceae,Salvia,Native,Full,Joanna_Alana,5,0.75,0.438,0.688,0.75,0.5,0,0,0,0,0,0.313,
+2,Northcentral,spring,march,7,7.11,Viburnum obovatum,Adoxaceae,Viburnum,Native,Full,Joanna_Walker,10,0.109,0.109,0.091,0.109,0.091,NA,NA,NA,NA,NA,0.102,
+2,Northcentral,summer,july,7,7.12,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Full,Joanna,4,25.974,15.584,2.597,2.597,0,NA,NA,NA,NA,NA,9.351,
+2,Northcentral,spring,may,7,7.13,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,0,0,0,0,0,0,0,0,0,0,0,0,
+2,Northcentral,summer,july,7,7.13,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Full,Joanna_Alana,10,0.5,0.375,0.875,0.938,0.875,0.563,1.125,0.688,1.25,0.438,0.763,
+2,Northcentral,spring,may,7,7.14,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Full,Joanna_Alana,5,0,0.006,0,0,0.013,NA,NA,NA,NA,NA,0.004,8.4
+2,Northcentral,spring,may,7,7.15,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Vanessa,10,0.563,0.188,0.938,0.938,1.125,2.906,1.031,1.875,1.031,2.063,1.266,
+2,Northcentral,summer,jun,7,7.15,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Full,Alana,,0.375,0.438,0.313,0.375,0.313,0.438,0.438,0.5,0.5,0.563,0.425,
+2,Northcentral,fall,oct,7,7.16,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Full,Joanna_Josh,10,0.188,0.188,0.25,0.625,0.188,0.438,0.313,0.5,0.188,0,0.288,
+2,Northcentral,spring,may,7,7.17,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.4,0.418,1.4,1.345,0.436,NA,NA,NA,NA,NA,0.8,55.2
+2,Northcentral,summer,july,7,7.17,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Full,Joanna_Alana,5,0.164,0.127,0.091,0.382,0.145,NA,NA,NA,NA,NA,0.182,43.4
+2,Northcentral,spring,may,7,7.18,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,9,2.121,1.818,2.121,2.121,2.727,1.515,1.818,1.818,2.727,NA,2.088,
+2,Northcentral,summer,jun,7,7.18,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Full,Joanna_Alana,5,1.938,3.125,3.625,1.563,2.25,0,0,NA,NA,NA,1.786,
+2,Northcentral,spring,may,7,7.19,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Full,Vanessa,10,2.438,1.031,2.25,2.531,0.563,0.938,1.688,0.469,1.031,2.719,1.566,
+2,Northcentral,fall,sept,7,7.2,Bidens alba,Asteraceae,Bidens,Native,Full,Joanna_Josh,5,0.013,0.219,0.125,0.063,0.163,NA,NA,NA,NA,NA,0.116,23.8
+2,Northcentral,spring,may,8,8.01,Bidens ferulifolia,Asteraceae,Bidens,Nonnative,Partial,Joanna_Alana,5,0.006,0.013,0.006,0,0,NA,NA,NA,NA,NA,0.005,7.8
+2,Northcentral,summer,aug,8,8.02,Monarda  punctata ,Lamiaceae,Monarda,Native,Partial,Joanna_Victoria,10,1.25,3.281,0.781,3.906,1.094,2.188,1.875,0,0,0,1.438,
+2,Northcentral,spring,may,8,8.03,Coreopsis auriculata ,Asteraceae,Coreopsis,Nonnative,Partial,Joanna_Alana,5,0.125,0.313,0.188,0.313,0.125,NA,NA,NA,NA,NA,0.213,45.2
+2,Northcentral,fall,oct,8,8.04,Conradina grandiflora ,Lamiaceae,Conradina  ,Native,Partial,Joanna_Josh,10,0.125,0.25,0.25,0.563,0,0.563,0.25,0,0.063,0.063,0.213,
+2,Northcentral,spring,may,8,8.05,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,10,1.875,1.125,0.188,0,1.125,1.219,1.5,0,0.844,0.469,0.834,
+2,Northcentral,summer,july,8,8.05,Scutellaria arrenicola,Lamiaceae,Scutellaria,Native,Partial,Joanna_Alana,10,0.313,0.438,0.188,0.563,0.5,0.375,0.625,0.313,0.313,0.375,0.4,
+2,Northcentral,spring,may,8,8.06,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,9,0.909,0.303,0.303,0,1.212,0,1.212,0.303,0.909,0,0.515,
+2,Northcentral,summer,aug,8,8.06,Salvia azurea,Lamiaceae,Salvia,Native,Partial,Joanna_Alana,10,0.063,0.063,0,0.125,0.063,0.375,0.313,0.063,0,0.375,0.144,
+2,Northcentral,summer,jun,8,8.07,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Alana,5,0.325,0.044,0.131,0.094,0.056,NA,NA,NA,NA,NA,0.13,24.4
+2,Northcentral,fall,sept,8,8.07,Bidens alba,Asteraceae,Bidens,Native,Partial,Joanna_Josh,5,0,0.094,0.05,0.044,0.038,NA,NA,NA,NA,NA,0.045,15.8
+2,Northcentral,spring,may,8,8.08,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,1.073,2,1.727,0,0.236,NA,NA,NA,NA,NA,1.007,69.4
+2,Northcentral,summer,july,8,8.08,Gaillardia pulchella,Asteraceae,Gaillardia,Native,Partial,Joanna_Alana,5,0.145,0.018,0.018,0,0,NA,NA,NA,NA,NA,0.036,41.8
+2,Northcentral,spring,march,8,8.09,Viburnum obovatum,Adoxaceae,Viburnum,Native,Partial,Joanna_Walker,10,0.073,0.073,0.073,0.055,,NA,NA,NA,NA,NA,0.068,
+2,Northcentral,summer,aug,8,8.1,Coreopsis leavenworthii,Asteraceae,Coreopsis,Native,Partial,Joanna_Alana,5,0,0.006,0,0.013,0,NA,NA,NA,NA,NA,0.004,41.8
+2,Northcentral,spring,may,8,8.11,Scutellaria javanica,Lamiaceae,Scutellaria,Nonnative,Partial,Vanessa,10,1.219,1.5,1.406,0,1.781,0.469,1.313,3.938,1.219,1.5,1.434,
+1,Northcentral,winter,feb,8,8.12,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Alana,10,0.006,0.056,0.019,0,0.044,0,0.006,0.025,0,0.063,0.022,
+2,Northcentral,winter,feb,8,8.12,Viburnum suspensum,Adoxaceae,Viburnum,Nonnative,Partial,Joanna_Sabrina,10,0,0,0,0,0,0,0,0,0,0.006,0.001,
+2,Northcentral,spring,may,8,8.13,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,9,2.121,1.818,1.515,1.212,2.424,2.121,2.121,2.424,1.212,NA,1.886,
+2,Northcentral,summer,jun,8,8.13,Salvia longispicata x farinacea,Lamiaceae,Salvia,Nonnative,Partial,Joanna_Alana,7,0.375,0.375,0.188,0.375,0.375,0.25,0.563,NA,NA,NA,0.357,
+2,Northcentral,spring,apr,8,8.15,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,5,1,2,2,0.709,0,NA,NA,NA,NA,NA,1.142,36
+2,Northcentral,summer,jun,8,8.15,Gaillardia grandiflora,Asteraceae,Gaillardia,Nonnative,Partial,Joanna_Alana,5,0.036,0.291,0.327,0.091,0.073,NA,NA,NA,NA,NA,0.164,27.2
+2,Northcentral,spring,may,8,8.16,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Vanessa,10,5.156,0,10.313,10.313,15,21.875,0,0,0,0,6.266,
+2,Northcentral,summer,jun,8,8.16,Hibiscus syriacus,Malvaceae,Hibiscus,Nonnative,Partial,Vanessa,1,0,0,0,0,0,NA,NA,NA,NA,NA,0,
+2,Northcentral,spring,may,8,8.17,Ilex glabra,Aquifoliaceae,Ilex,Native,Partial,Joanna_Walker,10,0.182,0.164,0.273,0.145,0.073,0.036,0.091,0.036,0.073,0.055,0.113,
+2,Northcentral,spring,may,8,8.18,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Vanessa,10,0.281,0.844,0.188,0.375,0.188,0.469,0.281,0.938,0.563,0.75,0.488,
+2,Northcentral,summer,jun,8,8.18,Monarda didyma ,Lamiaceae,Monarda,Nonnative,Partial,Alana,,0.5,0.188,0,0.375,0,0.25,0,0.188,0.688,0.688,0.288,
+2,Northcentral,summer,july,8,8.2,Hibiscus grandiflorus,Malvaceae,Hibiscus,Native,Partial,Joanna,3,22.078,0,0,0,0,NA,NA,NA,NA,NA,4.416,
