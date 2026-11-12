@@ -1,6 +1,6 @@
 # 2026A_flowersInsects
 
-Group A: Ana Vilaplana (vilapl-ana), Shabrin Jahan Shaili (s2012066151-design) and Md.Asif Ibne Habib (asifih79-hue)
+Group A: Ana Vilaplana (vilapl-ana), Shabrin Jahan Shaili (Shabrin-Jahan) and Md.Asif Ibne Habib (asifih79-hue)
 
 The qmd script describing your project knits without errors. Well done!
 
