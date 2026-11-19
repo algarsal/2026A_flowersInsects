@@ -31,20 +31,11 @@ table(row.name = Pollen_Flower$Origin)
 x <- Pollen_Flower$Flower_density 
 for (i in 1:2) Origin <- c(x,Pollen_Flower$Flower_density)
 x2 <- character()
-for (i in Pollen_Flower$Origin) x2 <- c(x2,rep(i,4))
+for (i in Pollen_Flower$Origin) x2 <- c(x2,i)
 
 d2 <- data.frame (Origin = x2,Flower.density = x)
 
-i <- 1
-for (i in 1:128) {
-  
-  a <- df[df$Pollen_Flower.Flower_density == d2$Species[i], d2$Variables[i]]
-  d2$mean[i] <- mean(a)
-  d2$sd[i] <- sd(a)
-  d2$median[i] <- median(a)
-  d2$min[i] <-  min(a)
-  d2$max[i] <-  max(a)
-}
+
 
 #What we want to accomplish, a graph with the total flower sensity per origin
 #plot (df$Pollen_Flower.Origin, df$Pollen_Flower.Flower_density, "Flower density", "Origin")
