@@ -8,3 +8,6 @@ load("Data/Flowers.Rdata")
 #Flower density per plot vs. Origin of plants (native, origin)
 Pollen_Flower$Flower_density 
 Pollen_Flower$Origin
+
+"First" <- data.frame(Pollen_Flower$Flower_density,Pollen_Flower$Origin)
+
