@@ -3,3 +3,11 @@
 
 Webcsv <- "https://dfzljdn9uc3pi.cloudfront.net/2026/20906/1/pollinatorsflowersperplot.csv"
 Flowers <- read.table(Webcsv, header = T, sep = ",")
+
+Webcsv <- "https://dfzljdn9uc3pi.cloudfront.net/2026/20906/1/pollinators.diversity.csv"
+Pollinators <- read.table(Webcsv, header = T, sep = ",")
+
+
+
+
+save(Flowers, Pollinators, file = "Data/Flowers.Rdata")
