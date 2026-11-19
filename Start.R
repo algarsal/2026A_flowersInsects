@@ -135,5 +135,20 @@ ggplot(d23) +
   geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, ymax=Flower.density+SE), width=0.4, colour ="black", alpha=0.9, size=1.3)
 
 
+
+#still working on this: check the article!!!
+install.packages("glmmTMB")
+library (glmmTMB)
+(m1 <- glmmTMB(Flower_density ~ Origin + Origin * Irrigation + (1 | Site/Plot) + (1 | Year),
+                       family=nbinom2, data=Pollen_Flower))
+summary(m1)
+anova(m1)
+predict(m1)
+#predict(budworm.lg, data.frame(ldose = ld,
+                               sex = factor(rep("M", length(ld)), levels = levels(sex))),
+        type = "response")
+#change the name of the variables and try to predict
+
+
 #What we want to accomplish, a graph with the total flower sensity per origin
 #plot (df$Pollen_Flower.Origin, df$Pollen_Flower.Flower_density, "Flower density", "Origin")
