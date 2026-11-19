@@ -11,17 +11,18 @@ Pollen_Flower$Origin
 
 #Origin <- c("Native", "Non native") #But this doesnt work because it is not attached to the data
 Origin <- c(names(Pollen_Flower$Origin)[1 : 2])
+Origin <- c("Native", "Nonative")
+
+Flower.density <- 1
 
 df <- data.frame(Pollen_Flower$Flower_density,Pollen_Flower$Origin)
+
 df
-sum(df$Pollen_Flower.Flower_density)
 
-table(row.name = Pollen_Flower$Origin)
+#sum(df$Pollen_Flower.Flower_density) #This doesnt work because it doesnt distinguish between Origin
 
-plot (df$Pollen_Flower.Origin, df$Pollen_Flower.Flower_density, "Flower density", "Origin")
+table(row.name = Pollen_Flower$Origin) 
 
-Origin <- c("Native", "Nonative")
-Flower.density <- 1
 
 x <- Pollen_Flower$Flower_density 
 for (i in 1:2) Origin <- c(x,Pollen_Flower$Flower_density)
@@ -40,3 +41,6 @@ for (i in 1:128) {
   d2$min[i] <-  min(a)
   d2$max[i] <-  max(a)
 }
+
+#What we want to accomplish, a graph with the total flower sensity per origin
+#plot (df$Pollen_Flower.Origin, df$Pollen_Flower.Flower_density, "Flower density", "Origin")
