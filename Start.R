@@ -9,5 +9,7 @@ load("Data/Flowers.Rdata")
 Pollen_Flower$Flower_density 
 Pollen_Flower$Origin
 
-"First" <- data.frame(Pollen_Flower$Flower_density,Pollen_Flower$Origin)
-
+df <- data.frame(Pollen_Flower$Flower_density,Pollen_Flower$Origin)
+df
+summary(df)
+table(row.name = Pollen_Flower$Origin)
