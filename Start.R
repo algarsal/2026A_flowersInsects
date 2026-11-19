@@ -12,20 +12,19 @@ load("Data/Flowers.Rdata")
 #Flower density per plot vs. Origin of plants (native, origin)
 Pollen_Flower$Flower_density 
 Pollen_Flower$Origin
+#In the article it says: To get flower density per plot, we multiplied the estimated number of flowers per plant by the number of plants per plot (2 or 3).
+#Is this the value we already have? Let's see other data sources:
+Pollen_Plot$Flower_density
+Pollen_Plot$Origin
+
+Pollen_Protein$Flower_density
+Pollen_Protein$Origin
 
 #Origin <- c("Native", "Non native") #But this doesnt work because it is not attached to the data
-
-Origin <- c("Native", "Nonative")
-
-
-
-df <- data.frame(Pollen_Flower$Flower_density,Pollen_Flower$Origin)
-
-df
-
+#Origin <- c("Native", "Nonative")
+#df1 <- data.frame(Pollen_Flower$Flower_density,Pollen_Flower$Origin)
 #sum(df$Pollen_Flower.Flower_density) #This doesnt work because it doesnt distinguish between Origin
-
-table(row.name = Pollen_Flower$Origin) 
+#table(row.name = Pollen_Flower$Origin) 
 
 
 x <- Pollen_Flower$Flower_density 
@@ -33,16 +32,56 @@ for (i in 1:2) Origin <- c(x,Pollen_Flower$Flower_density)
 x2 <- character()
 for (i in Pollen_Flower$Origin) x2 <- c(x2,i)
 
-d2 <- data.frame (Origin = x2,Flower.density = x)
-d2$Origin <- as.factor(d2$Origin)
-plot(Flower.density ~ Origin, data = d2)
+d02 <- data.frame (Origin = x2,Flower.density = x)
+d02$Origin <- as.factor(d02$Origin)
 
-d3 <- d2 |> 
+plot(Flower.density ~ Origin, data = d02)
+
+d03 <- d02 |> 
   group_by(Origin) |> 
   summarise(Flower.density = mean(Flower.density), 
             SE = sd(Flower.density))
 
-barplot(Flower.density ~ Origin, data = d3, col = Origin)
+barplot(Flower.density ~ Origin, data = d03, col = Origin)
+
+#Now, let's do the same with the other two data sets:
+
+x1 <- Pollen_Plot$Flower_density
+for (i in 1:2) Origin <- c(x1,Pollen_Plot$Flower_density)
+x12 <- character()
+for (i in Pollen_Plot$Origin) x12 <- c(x12,i)
+
+d12 <- data.frame (Origin = x12,Flower.density = x1)
+d12$Origin <- as.factor(d12$Origin)
+
+plot(Flower.density ~ Origin, data = d12) 
+
+d13 <- d12 |> 
+  group_by(Origin) |> 
+  summarise(Flower.density = mean(Flower.density), 
+            SE = sd(Flower.density))
+
+barplot(Flower.density ~ Origin, data = d13, col = Origin)
+
+#Still doesn't look similar to the article, let's try with the last one...
+
+x3 <- Pollen_Protein$Flower_density
+for (i in 1:2) Origin <- c(x3,Pollen_Protein$Flower_density)
+x22 <- character()
+for (i in Pollen_Protein$Origin) x22 <- c(x22,i)
+
+d22 <- data.frame (Origin = x22,Flower.density = x3)
+d22$Origin <- as.factor(d22$Origin)
+
+plot(Flower.density ~ Origin, data = d22) 
+
+d23 <- d22 |> 
+  group_by(Origin) |> 
+  summarise(Flower.density = mean(Flower.density), 
+            SE = sd(Flower.density))
+
+barplot(Flower.density ~ Origin, data = d13, col = Origin)
+
 
 Pollen_Plot$Origin <- as.factor(Pollen_Plot$Origin)
 d3 <- Pollen_Plot |> 
