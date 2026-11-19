@@ -5,11 +5,6 @@
 
 load("Data/Flowers.Rdata")
 
-#nectar_volume on irrigation
-Plot_Nectar$Irrigation
-Plot_Nectar$nectar_per_plot
-df <- data.frame(Plot_Nectar$Irrigation,Plot_Nectar$nectar_per_plot)
-df
 
 
 
