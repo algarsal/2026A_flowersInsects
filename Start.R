@@ -80,30 +80,60 @@ d23 <- d22 |>
   summarise(Flower.density = mean(Flower.density), 
             SE = sd(Flower.density))
 
-barplot(Flower.density ~ Origin, data = d13, col = Origin)
+barplot(Flower.density ~ Origin, data = d23, col = Origin)
 
+#I don't understand, each bar plot is different. Let's try bar graphs and SE for all 3: 
 
-Pollen_Plot$Origin <- as.factor(Pollen_Plot$Origin)
-d3 <- Pollen_Plot |> 
+Pollen_Flower$Origin <- as.factor(Pollen_Flower$Origin)
+d03 <- Pollen_Flower |> 
   group_by(Origin) |> 
-  summarise(Flower.density = mean(Flower.density, na.rm = TRUE))
+  summarise(Flower.density = mean(Flower.density, na.rm = TRUE)) #We couldn't figure out why this gives an error and that is why we are doing the next: 
 
-d3 <- data.frame(Origin = levels(Pollen_Plot$Origin), 
+d03 <- data.frame(Origin = levels(Pollen_Flower$Origin), 
                  Flower.density = NA,
                  SE = NA)
 for (i in 1:2) {
-  ss <- Pollen_Plot$Flower_density[Pollen_Plot$Origin == d3$Origin[i]]
-  d3$Flower.density[i] <- mean(ss)
-  d3$SE[i] <- sd(ss)/sqrt(length(ss))
+  ss <- Pollen_Flower$Flower_density[Pollen_Flower$Origin == d03$Origin[i]]
+  d03$Flower.density[i] <- mean(ss)
+  d03$SE[i] <- sd(ss)/sqrt(length(ss))
+}
+
+barplot(Flower.density ~ Origin, data = d03) #How can we add SE here? Well, let's try ggplot
+
+ggplot(d03) +
+  geom_bar( aes(x=Origin, y=Flower.density), stat="identity", fill="blue", alpha=0.7) +
+  geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, ymax=Flower.density+SE), width=0.4, colour="black", alpha=0.9, size=1.3)
+
+#Next one:
+
+d13 <- data.frame(Origin = levels(Pollen_Plot$Origin), 
+                 Flower.density = NA,
+                 SE = NA)
+for (i in 1:2) {
+  ss <- Pollen_Plot$Flower_density[Pollen_Plot$Origin == d13$Origin[i]]
+  d13$Flower.density[i] <- mean(ss)
+  d13$SE[i] <- sd(ss)/sqrt(length(ss))
 }
   
+ggplot(d13) +
+  geom_bar( aes(x=Origin, y=Flower.density), stat="identity", fill="purple", alpha=0.7) +
+  geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, ymax=Flower.density+SE), width=0.4, colour ="black", alpha=0.9, size=1.3)
 
-barplot(Flower.density ~ Origin, data = d3)
+#Next one:
 
+d23 <- data.frame(Origin = levels(Pollen_Plot$Origin), 
+                  Flower.density = NA,
+                  SE = NA)
+for (i in 1:2) {
+  ss <- Pollen_Protein$Flower_density[Pollen_Protein$Origin == d23$Origin[i]]
+  d23$Flower.density[i] <- mean(ss)
+  d23$SE[i] <- sd(ss)/sqrt(length(ss))
+}
 
-ggplot(d3) +
-  geom_bar( aes(x=Origin, y=Flower.density), stat="identity", fill="skyblue", alpha=0.7) +
-  geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, ymax=Flower.density+SE), width=0.4, colour="orange", alpha=0.9, size=1.3)
+ggplot(d23) +
+  geom_bar( aes(x=Origin, y=Flower.density), stat="identity", fill="green", alpha=0.7) +
+  geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, ymax=Flower.density+SE), width=0.4, colour ="black", alpha=0.9, size=1.3)
+
 
 #What we want to accomplish, a graph with the total flower sensity per origin
 #plot (df$Pollen_Flower.Origin, df$Pollen_Flower.Flower_density, "Flower density", "Origin")
