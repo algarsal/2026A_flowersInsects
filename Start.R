@@ -1,7 +1,11 @@
 #2026A_flowersInsects: Ana Vilaplana (vilapl-ana), Shabrin Jahan Shaili (Shabrin-Jahan) and Md.Asif Ibne Habib (asifih79-hue)
 #Trying to make the first graph Flower density per plot vs. Origin of plants (native, origin)
 
-#libraries
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(multcompView)
+library(broom)
 
 load("Data/Flowers.Rdata")
 
