@@ -178,7 +178,7 @@ ggplot(d23, aes(x = Origin, y = Flower.density, fill = Origin)) +
   theme(legend.position = "none")
 
 
-#still working on this: check the article!!!
+#still working on this: check the article!!! which model did they use for each variable and statistics?, there is document word with it
 install.packages("glmmTMB")
 library (glmmTMB)
 (m1 <- glmmTMB(Flower_density ~ Origin + Origin * Irrigation + (1 | Site/Plot) + (1 | Year),
