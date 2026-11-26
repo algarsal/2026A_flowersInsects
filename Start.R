@@ -7,6 +7,11 @@ library(tidyr)
 library(multcompView)
 library(broom)
 
+# Create a folder for all figures
+if (!dir.exists("Figures")) {
+  dir.create("Figures")
+}
+
 load("Data/Flowers.Rdata")
 
 #Flower density per plot vs. Origin of plants (native, origin)
@@ -142,6 +147,8 @@ library(ggsignif)
 # We use AI to help us plot them just like the article, so we have the next example:
 
 library(ggpubr)
+install.packages("viridis")
+
 #df <- data.frame(
  # Origin = c("Native", "Introduced", "Cultivar"),
   #response = c(12.5, 18.2, 10.1),
@@ -165,7 +172,7 @@ library(ggpubr)
   #theme_classic()
 
 #We try the example with our data: 
-ggplot(d23, aes(x = Origin, y = Flower.density, fill = Origin)) +
+ad23 <- ggplot(d23, aes(x = Origin, y = Flower.density, fill = Origin)) +
   geom_col(width = 0.6) +
   geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, 
                      ymax=Flower.density+SE), width = 0.2) +
@@ -173,9 +180,24 @@ ggplot(d23, aes(x = Origin, y = Flower.density, fill = Origin)) +
     x=1.5,y=600,label = "***",
 
     size = 5
-  ) +                   
+  ) +
+  ylab("Flower density per plot") +
+  xlab("Origin of plants") +
+  scale_fill_viridis_d(option = "E") +
   theme_bw()+
   theme(legend.position = "none")
+
+print(ad23)
+#Trying to save the picture in the Figures folder: 
+
+ggsave(
+  "Figures/Flower_density_Origin_d23.tiff",
+  plot = ad23,
+  width = 15,
+  height = 12,
+  units = "cm",
+  dpi = 600
+)
 
 
 #still working on this: check the article!!! which model did they use for each variable and statistics?, there is document word with it
