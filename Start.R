@@ -139,31 +139,32 @@ ggplot(d23) +
 library(ggplot2)
 library(ggsignif)
 
-# Example summary data from emmeans
+# We use AI to help us plot them just like the article, so we have the next example:
+
 library(ggpubr)
-df <- data.frame(
-  Origin = c("Native", "Introduced", "Cultivar"),
-  response = c(12.5, 18.2, 10.1),
-  asymp.LCL = c(10.0, 15.1, 8.2),
-  asymp.UCL = c(15.0, 21.3, 12.0)
-)
+#df <- data.frame(
+ # Origin = c("Native", "Introduced", "Cultivar"),
+  #response = c(12.5, 18.2, 10.1),
+ # asymp.LCL = c(10.0, 15.1, 8.2),
+ # asymp.UCL = c(15.0, 21.3, 12.0)
+#)
+#ggplot(df, aes(x = Origin, y = response, fill = Origin)) +
+  #geom_col(width = 0.6) +
+  #geom_errorbar(aes(ymin = asymp.LCL, ymax = asymp.UCL), width = 0.2) +
+  #geom_signif(
+   # comparisons = list(
+    #  c("Native", "Introduced"),   # Pair 1
+     # c("Introduced", "Cultivar")  # Pair 2
+  #  ),
+   # annotations = c("**", "***"),  # Labels from your emmeans p-values
+    #y_position = c(23, 26),        # Height of each bracket on the y-axis
+    #tip_length = 0.02,
+    #textsize = 5
+#  ) +
+ # ylim(0, 29) +                    # Expand y-axis so brackets don't get cut off
+  #theme_classic()
 
-ggplot(df, aes(x = Origin, y = response, fill = Origin)) +
-  geom_col(width = 0.6) +
-  geom_errorbar(aes(ymin = asymp.LCL, ymax = asymp.UCL), width = 0.2) +
-  geom_signif(
-    comparisons = list(
-      c("Native", "Introduced"),   # Pair 1
-      c("Introduced", "Cultivar")  # Pair 2
-    ),
-    annotations = c("**", "***"),  # Labels from your emmeans p-values
-    y_position = c(23, 26),        # Height of each bracket on the y-axis
-    tip_length = 0.02,
-    textsize = 5
-  ) +
-  ylim(0, 29) +                    # Expand y-axis so brackets don't get cut off
-  theme_classic()
-
+#We try the example with our data: 
 ggplot(d23, aes(x = Origin, y = Flower.density, fill = Origin)) +
   geom_col(width = 0.6) +
   geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, 
