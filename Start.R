@@ -132,8 +132,9 @@ for (i in 1:2) {
 
 ggplot(d23) +
   geom_bar( aes(x=Origin, y=Flower.density), stat="identity", fill="green", alpha=0.7) +
-  geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, ymax=Flower.density+SE), width=0.4, colour ="black", alpha=0.9, size=1.3)
-
+  geom_errorbar( aes(x=Origin, ymin=Flower.density-SE, ymax=Flower.density+SE), width=0.2, colour = "darkgray", alpha=0.9, size=0.6)+
+theme_bw()+
+  ylim(0,700)
 
 
 #still working on this: check the article!!!
