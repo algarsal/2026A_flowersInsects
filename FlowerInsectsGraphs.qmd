@@ -1,0 +1,15 @@
+---
+title: "Graphs"
+format: html
+editor: visual
+---
+
+## Quarto to make a figure with all the grpahs like in the article to compare them
+#Look for examples of united graphs and see how to do it! with legend
+
+
+
+```{r}
+1 + 1
+```
+
